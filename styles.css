@@ -1,3 +1,16 @@
 .img-fluid {
     width: 100%;
 }
+
+.header-image {
+height: 200px;
+margin-top: 8rem;
+margin-bottom: -100px;
+}
+
+.header-image img{
+    object-fit: contain;
+    height:100%;
+    width: 100%;
+  
+    }
